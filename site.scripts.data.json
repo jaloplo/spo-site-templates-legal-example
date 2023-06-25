@@ -1,0 +1,17 @@
+[
+    {
+        "file": "./site scripts/legal.cases.library.json",
+        "title": "Legal cases folder structure",
+        "description": "Folder structure for managing legal cases."
+    },
+    {
+        "file": "./site scripts/legal.docs.library.json",
+        "title": "Legal documents folder structure",
+        "description": "Folder structure for managing legal documents."
+    },
+    {
+        "file": "./site scripts/legal.resources.library.json",
+        "title": "Legal resources folder structure",
+        "description": "Folder structure for managing legal resources."
+    }
+]

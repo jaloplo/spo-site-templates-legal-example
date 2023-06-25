@@ -1,0 +1,22 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/sp/site-script-actions.schema.json",
+    "actions": [
+        {
+            "verb": "createSPList",
+            "listName": "Documents",
+            "templateType": 101,
+            "subactions": [
+                {
+                    "verb": "addFolder",
+                    "path": "/General/Legal Resources/Laws and Regulations"
+                },
+                {
+                    "verb": "addFolder",
+                    "path": "/General/Legal Resources/Judicial Precedents"
+                }
+            ]
+        }
+    ],
+    "bindata": {},
+    "version": 1
+}
